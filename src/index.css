@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app {
+  display: flex;
+  align-items: center;
+  
+}
+.news-feed {
+  background-color: rgb(204, 204, 231);
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 3px 10px rgb(0 0 0 /0.2);
+  max-width: 300px;
+}
+
+.currency-converter {
+  background-color: rgb(230, 223, 211);
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 3px 10px rgb(0 0 0 /0.2);
+  max-width: 300px;
+  text-align: center;
+}
+
+.exchange-rate {
+  background-color: green;
+  background-color: rgb(221, 230, 221);
+  padding: 20px;
+  margin-top: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 /0.2);
+}
