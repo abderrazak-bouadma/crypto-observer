@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/abderrazak-bouadma/crypto-observer/actions/workflows/node.js.yml/badge.svg)](https://github.com/abderrazak-bouadma/crypto-observer/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/abderrazak-bouadma/crypto-observer/actions/workflows/node2.js.yml/badge.svg)](https://github.com/abderrazak-bouadma/crypto-observer/actions/workflows/node2.js.yml)
 
 # Getting Started with Create React App
 
